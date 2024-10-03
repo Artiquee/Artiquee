@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on [Site Scraper Example](https://github.com/Artiquee/Site-Scraper-Example)
 
 - 🌱 I’m currently learning **Django, React.js**
+- 🔭 My scraping projects:
+     [Site Scraper Example](https://github.com/Artiquee/Site-Scraper-Example)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Artiquee](https://github.com/Artiquee)
 
